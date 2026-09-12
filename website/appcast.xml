@@ -3,23 +3,29 @@
     <channel>
         <title>CursorMover</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Fri, 11 Sep 2026 18:03:58 +0000</pubDate>
+            <title>1.8.0</title>
+            <pubDate>Sat, 12 Sep 2026 08:55:58 +0000</pubDate>
             <link>https://ityuany.github.io/cursor-mover-website/</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/ityuany/cursor-mover-website/releases/tag/v1.7.0</sparkle:fullReleaseNotesLink>
-            <sparkle:version>1.7.0</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:fullReleaseNotesLink>https://github.com/ityuany/cursor-mover-website/releases/tag/v1.8.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1.8.0</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Cursor Mover 1.7.0</h2>
+            <description><![CDATA[<h2>新增中英文支持</h2>
 <ul>
-  <li>新增应用内更新：菜单栏和「设置 → 关于」可手动检查更新。</li>
-  <li>新增自动检查更新开关，发现新版本时提醒，由你确认安装。</li>
-  <li>更新包通过签名验证，安装后自动重新启动应用。</li>
-  <li>开发版明确显示更新不可用，避免将灰色按钮误认为正在检查。</li>
+  <li>应用界面支持简体中文和英文，默认跟随系统首选语言。</li>
+  <li>菜单、设置、快捷键录制与冲突提示、权限说明和交互预览均提供双语文案。</li>
+  <li>优化较长英文文案的按钮宽度与说明换行，并补充无障碍标签的翻译。</li>
 </ul>
-<p>首次使用自动更新需要手动安装此版本。此前未包含更新器的版本无法自动升级。</p>
+<p>可在 macOS「语言与地区」设置中为 CursorMover 指定语言，退出并重新打开应用后生效。</p>
+<h2>Chinese and English Support</h2>
+<ul>
+  <li>The app now supports Simplified Chinese and English, following your preferred system language by default.</li>
+  <li>Menus, settings, shortcut recording and conflict messages, permission descriptions, and interactive previews are localized.</li>
+  <li>Improved button widths and text wrapping for longer English labels, with translated accessibility labels.</li>
+</ul>
+<p>Choose a language for CursorMover in macOS Language &amp; Region settings, then quit and reopen the app to apply it.</p>
 ]]></description>
-            <enclosure url="https://github.com/ityuany/cursor-mover-website/releases/download/v1.7.0/CursorMover-1.7.0.app.zip" length="6062137" type="application/octet-stream" sparkle:edSignature="/nBBhn+sVfRUjrbAyx+a3TMcj/gSmlzmgVEkwg9gOi1W5CuPGStCaeFxP3xI6EPo6EFxiwEsrJsmY/icPq3hAw=="/>
+            <enclosure url="https://github.com/ityuany/cursor-mover-website/releases/download/v1.8.0/CursorMover-1.8.0.app.zip" length="6076914" type="application/octet-stream" sparkle:edSignature="97TzKWtLtF2yE+QUvz5QOTmdrlDkr/1ZiNo5hi7mkaNPBEJijZ/mndMsIksR6QR3bGzDt8iu+8Z2yk/DPd9lAw=="/>
         </item>
     </channel>
 </rss>
